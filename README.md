@@ -1,2 +1,2 @@
 # CI-Spdo
-It is simple database class
+Simple database class
