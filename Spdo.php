@@ -6,6 +6,7 @@
  * @version 1.0
  * @license http://www.gnu.org/licenses/gpl-3.0.en.html GNU GPL 3.0
  * @since 2015-08-27
+ * @link https://github.com/gurkanbicer/CI-Spdo
  */
 
     require_once APPPATH . 'config/database.php';
