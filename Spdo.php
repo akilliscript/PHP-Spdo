@@ -9,7 +9,7 @@
  * @link https://github.com/gurkanbicer/PHP-Spdo
  */
 
-    require_once APPPATH . 'config/database.php'; // IF you want use this class on standard PHP projects, you must be removed the this line. 
+    #require_once APPPATH . 'config/database.php'; 
     $GLOBALS['db'] = $db;
 
     Class Spdo {
