@@ -280,4 +280,5 @@ echo $spdo->numRows();
 This function returns selected rows in the SELECT query.
 
 If you're have a question, please send an email to gurkan@grkn.co
+
 ***Gurkan Bicer***
